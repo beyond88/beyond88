@@ -27,10 +27,3 @@
 
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beyond88&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond88&langs_count=4&theme=vision-friendly-dark&layout=compact" />
-
-Popular Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond88&repo=default-quantity-for-woocommerce)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond88&repo=min-max-for-woocommerce)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond88&repo=woo-free-product-sample)](https://github.com/anuraghazra/github-readme-stats)
-
