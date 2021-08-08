@@ -31,3 +31,6 @@
 Popular Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond88&repo=default-quantity-for-woocommerce)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond88&repo=min-max-for-woocommerce)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond88&repo=woo-free-product-sample)](https://github.com/anuraghazra/github-readme-stats)
+
