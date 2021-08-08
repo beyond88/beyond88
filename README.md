@@ -6,4 +6,8 @@
 - 👯 I’m looking to collaborate on Open source platform like WordPress, Guternberg, BuddyPress.
 - ⚡ Fun fact: While I'm not working I love to visit new places.
 
-### Connect with me
+## Connect with me
+
+
+## Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beyond88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
