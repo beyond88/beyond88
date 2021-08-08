@@ -27,3 +27,6 @@
 
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beyond88&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond88&langs_count=4&theme=vision-friendly-dark&layout=compact" />
+
+## WakaTime Week Stats
+[![Mohiuddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beyond88&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
