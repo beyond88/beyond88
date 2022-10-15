@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as Full-stack Software Developer.
-- 🌱 I’m currently learning AWS, Agile, System Design & DevOPS.
+- 🌱 I’m currently learning Docker, AWS, System Design, Agile & DevOPS stuff.
 - 👯 I’m looking to collaborate on Open source platform like WordPress, Guternberg, BuddyPress.
 - ⚡ Fun fact: While I'm not working I love to read books and watch TV series.
 
