@@ -45,6 +45,6 @@ You can see and download the pdf copy of my latest resume from below (I removed 
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](#)
 
 
-## Stats:
+## Stats: 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beyond88&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond88&langs_count=4&theme=vision-friendly-dark&layout=compact" />
 
