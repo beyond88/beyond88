@@ -1,5 +1,3 @@
-### Hi there, I am Mohiuddin Abdul Kader 👋
-
 ## How to reach me:
 <ul dir="auto">
 <li>Blog: <a href="https://makader.hashnode.dev" rel="nofollow">https://makader.hashnode.dev</a></li>
