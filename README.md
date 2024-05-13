@@ -1,8 +1,22 @@
+### Hi there, I am Mohiuddin Abdul Kader.
+A seasoned full-stack software developer with hands-on experience, leveraging cutting-edge technologies to tackle complex software challenges. I believe in perpetual growth, achieving maximum output with minimal exertion, automation wherever possible, keeping code clean, building trust among teams, leading with empathy, and getting the job done.
+
+I am well-versed in:
+- OOP and Clean Code
+- PHP, JavaScript, TypeScript, MySQL
+- WordPress, Laravel
+- React, Vue.js
+- Docker
+- REST API design
+- Agile Methodology
+
+
 ## How to reach me:
 <ul dir="auto">
-<li>Blog: <a href="https://makader.hashnode.dev" rel="nofollow">https://makader.hashnode.dev</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/mohiuddin-abdul-kader" rel="nofollow">https://www.linkedin.com/in/mohiuddin-abdul-kader</a></li>
-<li>Email: <a href="mailto:muhin.cse.diu@gmail.com">muhin.cse.diu@gmail.com</a></li>
+<li>WordPress Plugins: <a href="https://profiles.wordpress.org/hossain88/#content-plugins" rel="nofollow" target="_blank">https://wordpress.org/plugins/samply/</a></li>
+<li>Blog: <a href="https://makader.hashnode.dev" rel="nofollow" target="_blank">https://makader.hashnode.dev</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/mohiuddin-abdul-kader" rel="nofollow" target="_blank">https://www.linkedin.com/in/mohiuddin-abdul-kader</a></li>
+<li>Email: <a href="mailto:muhin.cse.diu@gmail.com" target="_blank">muhin.cse.diu@gmail.com</a></li>
 </ul>
 
 
