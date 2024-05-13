@@ -14,10 +14,10 @@ I am well-versed in:
 
 ## How to reach me:
 <ul dir="auto">
-<li>WordPress Plugins: <a href="https://profiles.wordpress.org/hossain88/#content-plugins" rel="nofollow" target="_blank">https://wordpress.org/plugins/samply/</a></li>
-<li>Blog: <a href="https://makader.hashnode.dev" rel="nofollow" target="_blank">https://makader.hashnode.dev</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/mohiuddin-abdul-kader" rel="nofollow" target="_blank">https://www.linkedin.com/in/mohiuddin-abdul-kader</a></li>
-<li>Email: <a href="mailto:muhin.cse.diu@gmail.com" target="_blank">muhin.cse.diu@gmail.com</a></li>
+<li>WordPress Plugins: <a href="https://profiles.wordpress.org/hossain88/#content-plugins">https://profiles.wordpress.org/hossain88/</a></li>
+<li>Blog: <a href="https://makader.hashnode.dev">https://makader.hashnode.dev</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/mohiuddin-abdul-kader">https://www.linkedin.com/in/mohiuddin-abdul-kader</a></li>
+<li>Email: <a href="mailto:muhin.cse.diu@gmail.com">muhin.cse.diu@gmail.com</a></li>
 </ul>
 
 
