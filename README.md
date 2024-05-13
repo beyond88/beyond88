@@ -3,12 +3,13 @@ A seasoned full-stack software developer with hands-on experience, leveraging cu
 
 I am well-versed in:
 - OOP and Clean Code
-- PHP, JavaScript, TypeScript, MySQL
-- WordPress, Laravel
-- React, Vue.js
+- PHP, JavaScript, TypeScript, and MySQL
+- WordPress, and Laravel
+- React, and Vue.js
 - Docker
 - REST API design
 - Agile Methodology
+- Empowering teams, and delivering results
 
 
 ## How to reach me:
