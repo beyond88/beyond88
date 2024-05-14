@@ -1,5 +1,5 @@
 ## Hi there, I am Mohiuddin Abdul Kader 👋
-A seasoned full-stack software developer with hands-on experience, leveraging cutting-edge technologies to tackle complex software challenges. I believe in perpetual growth, achieving maximum output with minimal exertion, automation wherever possible, keeping code clean, building trust among teams, leading with empathy, and getting the job done.
+A seasoned full-stack software developer with hands-on experience, leveraging cutting-edge technologies to tackle complex software challenges. I believe in perpetual growth, achieving maximum output with minimal exertion, automation wherever possible, keeping code clean, cultivating team trust, guiding with empathy and sensitivity, and completing tasks efficaciously.
 
 ### I am well-versed in
 - OOP and Clean Code
