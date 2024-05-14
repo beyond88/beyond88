@@ -8,7 +8,6 @@ A seasoned full-stack software developer with hands-on experience, leveraging cu
 - MySQL, MongoDB
 - React, Vue.js
 - Docker
-- REST API design
 - Agile Methodology
 - Empowering teams and delivering results
 
