@@ -1,5 +1,5 @@
 ## Hi there, I am Mohiuddin Abdul Kader 👋
-A seasoned full-stack software developer with hands-on experience, leveraging cutting-edge technologies to tackle complex software challenges. I believe in perpetual growth, achieving maximum output with minimal exertion, automation wherever possible, keeping code clean, cultivating team trust, guiding with empathy and sensitivity, and completing tasks efficaciously.
+I turn complex business challenges into clean, efficient, and scalable digital products that drive real results. With 8+ years of hands-on full-stack experience (primarily Laravel, WordPress, Node.js, and modern JS ecosystems), I have delivered high-traffic e-commerce platforms handling thousands of products and orders, flagship SaaS features for global clients, and custom plugins solving everyday pain points for thousands of merchants.
 
 ### I am well-versed in
 - OOP and Clean Code
